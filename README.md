@@ -10,7 +10,7 @@ I enjoy building security tools and labs that turn raw security data into action
 
 I'm building a career in cybersecurity with a focus on **Security Operations, Detection Engineering, Incident Response, and Security Automation**. I'm particularly interested in opportunities where I can apply SIEM analysis, Python automation, network analysis, and threat detection while continuing to develop as a security practitioner.
 
-## 🛠️ Skills
+##  Skills
 
 | Skill                          | Associated Project / Experience                 |
 | ------------------------------ | ----------------------------------------------- |
