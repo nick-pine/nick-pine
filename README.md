@@ -1,4 +1,7 @@
+---
+
 # Hello, I'm Nick 
+
 
 <a href="https://linkedin.com/in/nicholaspine">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,61 +20,6 @@ Before cybersecurity, I spent nearly a decade working in professional kitchens a
 
 A long-standing interest in computers and understanding how systems work eventually led me back to school and into cybersecurity. Since then, I've earned an A.A.S. in Cybersecurity, four GIAC certifications, completed internships in cybersecurity operations and post-quantum cryptography research, competed in the National Cyber League, and built hands-on security projects.
 
-Today, I'm applying that same problem-solving mindset to **SIEM analysis, vulnerability research, detection engineering, network analysis, and Python automation**.
-
- **[Read more about my journey and cybersecurity work](https://github.com/nick-pine/cybersecurity-portfolio)**
-
----
-
-##  Skills
-
-| Skill                          | Associated Project / Experience                       |
-| ------------------------------ | ----------------------------------------------------- |
-| SIEM Monitoring & Alert Triage | Cybersecurity Internship / LLM-Enriched SIEM Pipeline |
-| Detection Analysis & Tuning    | Cybersecurity Internship / Wazuh                      |
-| Python Security Automation     | LLM-Enriched SIEM & Vulnerability Pipeline            |
-| Vulnerability Assessment       | Offensive Security & Vulnerability Research Home Lab  |
-| Network & Packet Analysis      | Offensive Security & Vulnerability Research Home Lab  |
-| Incident Handling              | GCIH / Security Labs                                  |
-| Post-Quantum Cryptography      | NSF AIM PQC Research                                  |
-| Offensive Security & CTFs      | National Cyber League                                 |
-
----
-
-##  Tools & Technologies
-
-### Security Operations & SIEM
-
-<div>
-  <img src="https://img.shields.io/badge/-Wazuh-3AABE6?&style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
-</div>
-
-### Network & Vulnerability Analysis
-
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Programming & Development
-
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-### Systems
-
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
 ---
 
 ##  Certifications
@@ -87,6 +35,21 @@ Today, I'm applying that same problem-solving mindset to **SIEM analysis, vulner
 * **GIAC Security Essentials (GSEC)**
 * **GIAC Python Coder (GPYC)**
 * **GIAC Foundational Cybersecurity Technologies (GFACT)**
+
+---
+
+##  Skills
+
+| Skill                          | Associated Project / Experience                       |
+| ------------------------------ | ----------------------------------------------------- |
+| SIEM Monitoring & Alert Triage | Cybersecurity Internship / LLM-Enriched SIEM Pipeline |
+| Detection Analysis & Tuning    | Cybersecurity Internship / Wazuh                      |
+| Python Security Automation     | LLM-Enriched SIEM & Vulnerability Pipeline            |
+| Vulnerability Assessment       | Offensive Security & Vulnerability Research Home Lab  |
+| Network & Packet Analysis      | Offensive Security & Vulnerability Research Home Lab  |
+| Incident Handling              | GCIH / Security Labs                                  |
+| Post-Quantum Cryptography      | NSF AIM PQC Research                                  |
+| Offensive Security & CTFs      | National Cyber League                                 |
 
 ---
 
