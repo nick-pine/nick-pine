@@ -12,8 +12,6 @@
 
 I'm a cybersecurity student at **SANS Technology Institute** and GIAC-certified cybersecurity professional with hands-on experience in security operations, SIEM monitoring, incident handling, vulnerability analysis, Python development, and applied security research.
 
-I'm particularly interested in **Security Operations, Detection Engineering, Incident Response, and Security Automation**.
-
 ##  From Pastry Chef to Cybersecurity 
 
 Before cybersecurity, I spent nearly a decade working in professional kitchens and culinary leadership. That career taught me how to solve problems under pressure, prioritize competing demands, maintain attention to detail, and continuously improve processes.
