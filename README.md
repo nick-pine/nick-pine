@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Cybersecurity_Portfolio-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-I'm a cybersecurity student at **SANS Technology Institute** and GIAC-certified cybersecurity professional with hands-on experience in security operations, SIEM monitoring, incident handling, vulnerability analysis, Python development, and applied security research.
+I'm a cybersecurity student at SANS Technology Institute and GIAC-certified cybersecurity professional with hands-on experience in security operations, SIEM monitoring, incident handling, vulnerability analysis, Python development, and applied security research.
 
 ##  From Pastry Chef to Cybersecurity 
 
