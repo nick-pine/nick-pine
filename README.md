@@ -6,6 +6,18 @@ I'm a cybersecurity student at SANS Technology Institute and GIAC-certified cybe
 
 I enjoy building security tools and labs that turn raw security data into actionable information, investigating how attacks work, and developing practical solutions to security problems.
 
+##  From the Kitchen to Cybersecurity
+
+My path into cybersecurity isn't a traditional one. Before transitioning into technology, I spent nearly a decade working in professional kitchens, progressing through demanding culinary environments and leadership roles.
+
+Working in kitchens taught me how to solve problems under pressure, prioritize when multiple things are happening at once, communicate clearly with a team, and maintain attention to detail when mistakes matter. As I moved into leadership and consulting, I also became increasingly interested in improving processes, building systems, and finding more efficient ways to solve problems.
+
+That problem-solving mindset ultimately led me to cybersecurity.
+
+Since making the transition, I've earned an A.A.S. in Cybersecurity, continued my education through the SANS Technology Institute, earned four GIAC certifications, completed cybersecurity internships, competed in the National Cyber League, and built hands-on projects focused on SIEM analysis, vulnerability research, detection engineering, and Python automation.
+
+I'm now focused on continuing to develop as a security practitioner and bringing both sides of my background to the field: technical cybersecurity skills and years of experience operating in high-pressure, detail-oriented environments.
+
 ##  Objective
 
 I'm building a career in cybersecurity with a focus on **Security Operations, Detection Engineering, Incident Response, and Security Automation**. I'm particularly interested in opportunities where I can apply SIEM analysis, Python automation, network analysis, and threat detection while continuing to develop as a security practitioner.
