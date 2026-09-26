@@ -87,13 +87,6 @@ A.A.S. Cybersecurity — 2025
 
 ---
 
-##  Connect With Me
-
-<a href="https://linkedin.com/in/nicholaspine">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
 ##  Education
 
 **SANS Technology Institute**
