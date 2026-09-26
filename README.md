@@ -86,11 +86,3 @@ B.S. Applied Cybersecurity — Expected 2027
 A.A.S. Cybersecurity — 2025
 
 ---
-
-##  Education
-
-**SANS Technology Institute**
-B.S. Applied Cybersecurity — Expected 2027
-
-**Montgomery College**
-A.A.S. Cybersecurity — 2025
