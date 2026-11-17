@@ -15,19 +15,21 @@
 
 Before cybersecurity, I spent nearly a decade working in professional kitchens and culinary leadership. That career taught me how to solve problems under pressure, prioritize competing demands, maintain attention to detail, and continuously improve processes.
 
-A long-standing interest in computers and understanding how systems work eventually led me back to school and into cybersecurity. Since then, I've earned an A.A.S. in Cybersecurity, four GIAC certifications, completed internships in cybersecurity operations and post-quantum cryptography research, competed in the National Cyber League, and built hands-on security projects.
+A long-standing interest in computers and understanding how systems work eventually led me back to school and into cybersecurity. Since then, I've earned an A.A.S. in Cybersecurity, five GIAC certifications, completed internships in cybersecurity operations and post-quantum cryptography research, competed in the National Cyber League, and built hands-on security projects.
 
 ---
 
 ##  Certifications
 
 <div>
+  <img src="https://img.shields.io/badge/-GCFE-0066CC?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-GCIH-8A2BE2?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-GSEC-0052CC?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-GPYC-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-GFACT-008000?&style=for-the-badge&logoColor=white" />
 </div>
 
+* **GIAC Certified Forensic Examiner (GCFE)**
 * **GIAC Certified Incident Handler (GCIH)**
 * **GIAC Security Essentials (GSEC)**
 * **GIAC Python Coder (GPYC)**
